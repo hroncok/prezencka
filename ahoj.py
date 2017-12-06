@@ -1,1 +1,0 @@
-print("Ahoj svete")
